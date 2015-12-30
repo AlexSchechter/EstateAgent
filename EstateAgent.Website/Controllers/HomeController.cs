@@ -23,5 +23,18 @@ namespace EstateAgent.Website.Controllers
             model.Estates = EstateRepository.ListEstates().OrderBy(x => x.EstateID).ToList();
             return View("MainPage", model);
         }
+
+        public ActionResult Add(string postcode, int bathrooms, int bedrooms, int squareFoot)
+        {            
+            EstateRepository.SaveEstate(bedrooms, bathrooms, postcode, squareFoot);
+            var model = new EstateModel();
+            model.Estates = EstateRepository.ListEstates().OrderBy(x => x.EstateID).ToList();
+            return View("MainPage",model);
+        }
+
+        public ActionResult Create()
+        {
+            return View("AddEstate");
+        }
     }
 }

@@ -13,3 +13,4 @@ C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Estate
 C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\EstatesBusinessLayer\bin\Debug\Alex.Common.pdb
 C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\EstatesBusinessLayer\obj\Debug\EstatesBusinessLayer.dll
 C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\EstatesBusinessLayer\obj\Debug\EstatesBusinessLayer.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\EstatesBusinessLayer\obj\Debug\EstatesBusinessLayer.csprojResolveAssemblyReference.cache
