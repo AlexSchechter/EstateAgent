@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+@model EstateAgent.Website.Models.EstateModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MainPage</title>
+</head>
+<body>
+    <div> 
+        <table>
+            <thead>
+                <tr>
+                    <th>Estate ID</th>
+                    <th>Postcode</th>
+                    <th>Number of Bedrooms</th>
+                    <th>Number of Bathrooms</th>
+                    <th>Square Footage</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var estate in Model.Estates)
+                {
+                    <tr>
+                        <td>@estate.EstateID</td>
+                        <td>@estate.Postcode</td>
+                        <td>@estate.Bedrooms</td>
+                        <td>@estate.Bathrooms</td>
+                        <td>@estate.SqF</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
