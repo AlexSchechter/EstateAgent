@@ -2,6 +2,7 @@
 using Estates.Business;
 using System.Collections.Generic;
 using System.Web.Mvc;
+using System.Linq;
 
 namespace EstateAgent.Website.Controllers
 {
@@ -11,9 +12,15 @@ namespace EstateAgent.Website.Controllers
         public ActionResult Index()
         {
             var model = new EstateModel();
-            model.Estates = new List<Estate>();
-            model.Estates.Add(new Estate(3, 2, 1000, "W12 3RT", 1));
-            model.Estates.Add(new Estate(10, 8, 10000, "CT4 1BY", 2));
+            model.Estates = EstateRepository.ListEstates().OrderBy(x => x.EstateID).ToList();
+            return View("MainPage", model);
+        }
+
+        public ActionResult Delete(int id)
+        {
+            EstateRepository.DeleteEstate(id);
+            var model = new EstateModel();
+            model.Estates = EstateRepository.ListEstates().OrderBy(x => x.EstateID).ToList();
             return View("MainPage", model);
         }
     }

@@ -33,6 +33,7 @@
                         <td>@estate.Bedrooms</td>
                         <td>@estate.Bathrooms</td>
                         <td>@estate.SqF</td>
+                        <td>@Html.ActionLink("Remove","Delete", new { id = estate.EstateID })</td>
                     </tr>
                 }
             </tbody>
