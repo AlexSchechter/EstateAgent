@@ -1,0 +1,32 @@
+c:\users\alex\documents\visual studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.exe.config
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.exe
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.exe
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.csprojResolveAssemblyReference.cache
+C:\Users\asche\Downloads\Excercise 3C\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.exe.config
+C:\Users\asche\Downloads\Excercise 3C\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.exe
+C:\Users\asche\Downloads\Excercise 3C\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.pdb
+C:\Users\asche\Downloads\Excercise 3C\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.exe
+C:\Users\asche\Downloads\Excercise 3C\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.pdb
+C:\Users\asche\Downloads\Excercise 3C\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.csprojResolveAssemblyReference.cache
+C:\Users\asche\Downloads\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.exe.config
+C:\Users\asche\Downloads\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.exe
+C:\Users\asche\Downloads\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.pdb
+C:\Users\asche\Downloads\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.exe
+C:\Users\asche\Downloads\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.pdb
+C:\Users\asche\Downloads\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.csprojResolveAssemblyReference.cache
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.exe.config
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.exe
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.exe
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\EstatesBusinessLayer.dll
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\EstatesBusinessLayer.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.csprojResolveAssemblyReference.cache

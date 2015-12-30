@@ -1,0 +1,20 @@
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.exe.config
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.exe
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\obj\Debug\Excercise 3C.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.exe
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\Excercise 3C.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\EstatesBusinessLayer.dll
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\EstatesBusinessLayer.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\obj\Debug\EstateAgent.csprojResolveAssemblyReference.cache
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\Alex.Common.dll
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\Excercise 3C\Excercise 3C\bin\Debug\Alex.Common.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Excercise 3C\bin\Debug\Excercise 3C.exe.config
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Excercise 3C\obj\Debug\Excercise 3C.exe
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Excercise 3C\obj\Debug\Excercise 3C.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Excercise 3C\bin\Debug\Excercise 3C.exe
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Excercise 3C\bin\Debug\Excercise 3C.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Excercise 3C\bin\Debug\Alex.Common.dll
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Excercise 3C\bin\Debug\EstatesBusinessLayer.dll
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Excercise 3C\bin\Debug\Alex.Common.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Excercise 3C\bin\Debug\EstatesBusinessLayer.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Excercise 3C\obj\Debug\EstateAgent.csprojResolveAssemblyReference.cache
