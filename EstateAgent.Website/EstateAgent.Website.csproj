@@ -120,6 +120,7 @@
     <Content Include="Global.asax" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
+    <Content Include="Styles\EstateAgent.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -139,6 +140,7 @@
     </Content>
     <Content Include="Views\Home\MainPage.cshtml" />
     <Content Include="Views\Home\AddEstate.cshtml" />
+    <Content Include="Views\_LayoutPage.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

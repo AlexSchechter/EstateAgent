@@ -1,0 +1,26 @@
+﻿body{
+    background-color: lightgrey;
+}
+table {
+    background-color: darkseagreen;
+    text-align: center;
+}
+thead{
+    background-color: green;
+}
+th{
+    text-align: center;
+}
+
+td{
+    width: 16.6666666%;
+}
+button{
+    padding:10px;
+    border-radius:10px;
+    background-color: black;
+}
+
+a{
+    color: red
+}

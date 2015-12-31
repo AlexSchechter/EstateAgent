@@ -7,3 +7,4 @@ C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Alex.C
 C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Alex.Common\bin\Debug\Alex.Common.pdb
 C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Alex.Common\obj\Debug\Alex.Common.dll
 C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Alex.Common\obj\Debug\Alex.Common.pdb
+C:\Users\asche\OneDrive\Documents\Visual Studio 2015\Projects\EstateAgent\Alex.Common\obj\Debug\Alex.Common.csprojResolveAssemblyReference.cache

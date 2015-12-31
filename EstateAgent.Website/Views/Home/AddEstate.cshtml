@@ -1,22 +1,13 @@
 ﻿
 @{
-    Layout = null;
+    Layout = "~/Views/_LayoutPage.cshtml";
 }
 
-<!DOCTYPE html>
+<form action="Add" method="post">
+    Postcode: <input type="text" name="postCode" /><br />
+    Bedrooms: <input type="number" name="bedrooms" /><br />
+    Bathroom: <input type="number" name="bathrooms" /><br />
+    Square Foot: <input type="number" name="squareFoot" /><br />
+    <input type="submit" value="Submit" />
+</form>
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>AddEstate</title>
-</head>
-<body>
-    <form action="Add" method="post">
-        Postcode: <input type="text" name="postCode" /><br />
-        Bedrooms: <input type="number" name="bedrooms" /><br />
-        Bathroom: <input type="number" name="bathrooms" /><br />
-        Square Foot: <input type="number" name="squareFoot" /><br />
-        <input type="submit" value="Submit" />
-    </form>
-</body>
-</html>

@@ -1,44 +1,33 @@
 ﻿
 @{
-    Layout = null;
+    Layout = "~/Views/_LayoutPage.cshtml";
 }
 
 @model EstateAgent.Website.Models.EstateModel
 
-<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>MainPage</title>
-</head>
-<body>
-    <div> 
-        <table>
-            <thead>
-                <tr>
-                    <th>Estate ID</th>
-                    <th>Postcode</th>
-                    <th>Number of Bedrooms</th>
-                    <th>Number of Bathrooms</th>
-                    <th>Square Footage</th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var estate in Model.Estates)
-                {
-                    <tr>
-                        <td>@estate.EstateID</td>
-                        <td>@estate.Postcode</td>
-                        <td>@estate.Bedrooms</td>
-                        <td>@estate.Bathrooms</td>
-                        <td>@estate.SqF</td>
-                        <td>@Html.ActionLink("Remove","Delete", new { id = estate.EstateID })</td>
-                    </tr>
-                }
-                @Html.ActionLink("Add New Property", "Create")
-            </tbody>
-        </table>
-    </div>
-</body>
-</html>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Estate ID</th>
+            <th>Postcode</th>
+            <th>Number of Bedrooms</th>
+            <th>Number of Bathrooms</th>
+            <th>Square Footage</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var estate in Model.Estates)
+        {
+            <tr>
+                <td>@estate.EstateID</td>
+                <td>@estate.Postcode</td>
+                <td>@estate.Bedrooms</td>
+                <td>@estate.Bathrooms</td>
+                <td>@estate.SqF</td>
+                <td>@Html.ActionLink("Remove","Delete", new { id = estate.EstateID })</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<button name="button">@Html.ActionLink("Add New Property", "Create")</button>
